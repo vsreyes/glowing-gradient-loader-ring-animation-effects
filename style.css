@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #240229;
+}
+.loader {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: linear-gradient(#14ffe9, #ffeb3b, #ff00e0);
+}
